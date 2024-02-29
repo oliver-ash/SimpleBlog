@@ -1,0 +1,15 @@
+{
+  "name": "simpleblog",
+  "version": "1.0.0",
+  "description": "Creating a simple blogging platform as an entry level web development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
